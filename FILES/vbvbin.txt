@@ -1,0 +1,4 @@
+# VBV BIN Database
+# Format: BIN|STATUS|RESPONSE
+447697|3D TRUE ❌|3D Secure Required
+424242|3D FALSE ✅|3D Secure Not Required
